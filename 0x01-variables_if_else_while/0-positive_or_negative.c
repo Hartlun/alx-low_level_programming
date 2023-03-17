@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - main function of code
  * description: Print whether the number stored in the variable is positive, zero or negative
