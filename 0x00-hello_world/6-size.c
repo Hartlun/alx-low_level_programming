@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main = the size of various types on the computer it is compiled
+ *
  * Return: 0
  */
 
