@@ -1,13 +1,13 @@
-#include <stdio.h>
+#include "main.h"
+/**
+ * main - main function
+ * description: print putchar followed by a new line
+ * Return: 0 (successful)
+ */
 
-int main(); 
+int main(void)
 {
+	_putchar("_putchar\n");
 
-	char a; 
-	a = _putchar;
-	{
-	printf("%c\n", a);
-	}
-
-	return 0;
+	return (0);
 }
