@@ -1,6 +1,3 @@
-(19 sloc)  363 Bytes
- 
-
 #ifndef CALC_H
 #define CALC_H
 /**
